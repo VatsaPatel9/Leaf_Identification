@@ -15,7 +15,7 @@ categories = ["acer_campestre", "betula_nigra", "carya_cordiformis", "eucommia_u
              "juglans_nigra","liriodendron_tulipifera"]
 print(len(categories))
 
-os.chdir(r"C:\Users\19378\Desktop\test_leaf")
+os.chdir(r"path")
 testing = os.getcwd() #returns current working directory 
 print(testing)
 
