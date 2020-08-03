@@ -7,7 +7,7 @@ Designed a CNN model to classify 8 different types of plants with 2136 test imag
 # Dataset:
 Dataset was used from leafsnap and then altered according to the requirement
 
-# library used:
+# Library used:
 Tensoflow, keras, matplotlib are been used into the code
 
 # Details:
