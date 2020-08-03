@@ -33,7 +33,7 @@ import gc #garbage collector
 
 
 
-images= os.chdir(r"C:\Users\Desktop\mix") #path of my image folder
+images= os.chdir(r"path") #path of my image folder
 images = os.getcwd() #returns current working directory 
 # print(images)
 
