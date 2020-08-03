@@ -1,3 +1,5 @@
+#This is used to test the model from random images taken from google 
+
 #!/usr/bin/env python
 # coding: utf-8
 
