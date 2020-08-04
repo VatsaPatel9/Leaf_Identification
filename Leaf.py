@@ -218,7 +218,7 @@ plt.show()
 # In[12]:
 
 
-os.chdir(r"C:\Users\19378\Desktop\test_leaf") #location of the testing data
+os.chdir(r"path") #location of the testing data
 testing = os.getcwd() #returns current working directory 
 print(testing)
 
